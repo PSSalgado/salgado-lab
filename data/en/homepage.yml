@@ -14,29 +14,6 @@ slider:
         label : "Apply now"
         link : "/contact"
 
-    # # slider item loop
-    # - title : "Cell Biology"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-    #   animation_in : "left"
-    #   animation_out : "right"
-    #   # available animation : left, right, up, down
-    #   button:
-    #     enable : false
-    #     label : "Apply now"
-    #     link : "contact"
-
-    # # slider item loop
-    # - title : "Molecular Biology"
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-    #   animation_in : "left"
-    #   animation_out : "right"
-    #   # available animation : left, right, up, down
-    #   button:
-    #     enable : false
-    #     label : "Apply now"
-    #     link : "contact"
-
-
 ############################### Banner feature ###############################
 banner_feature:
   enable : false
@@ -68,9 +45,9 @@ about:
   enable : true
   title : "About us"
   image : "images/about/about-page.jpg"
-  content : "Our *Clostridioides difficile* Structural Microbiology group focuses on detailed structural and functional characterisation of proteins involved in key pathogenicity pathways in this major human pathogen. 
+  content : "Our *C. difficile* Structural Microbiology group focuses on detailed structural and functional characterisation of proteins involved in key pathogenicity pathways in this major human pathogen. 
 
-            We are particularly interested in *C. difficile* spores, the dormant, resistant cell forms that are the transmission vehicle, as well as surface proteins and their role in infection."
+            We are particularly interested in *Clostridioides difficile* spores, the dormant, resistant cell forms that are the transmission vehicle, as well as surface proteins and their role in infection."
   button:
     enable : true
     label : "Learn more"

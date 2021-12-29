@@ -14,15 +14,18 @@ bio: ""
 order: 2
 # contact info
 contact:
-  # contact item loop
   - name : "anna.barwinska-sendra@ncl.ac.uk"
     icon : "ti-email"
     link : "mailto:anna.barwinska-sendra@ncl.ac.uk"
 
-  # contact item loop
   - name : "@barwinskasendra"
     icon : "ti-twitter-alt"
     link : "https://twitter.com/barwinskasendra"
+
+  - name : "Anna Barwinska-Sendra"
+    icon : "ti-linkedin"
+    link : "https://uk.linkedin.com/in/anna-barwinska-sendra-76286484"
+
 
 # type
 type: "member"

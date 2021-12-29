@@ -48,7 +48,17 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Rui Vieira"
 # contact info
-address = "Newcastle University Biosciences Institute\n Faculty of Medical Sciences\n 2nd Floor Cookson Building Newcastle University\n Newcastle upon Tyne\n NE2 4HH, UK"
+address = """Newcastle University Biosciences Institute
+
+Faculty of Medical Sciences
+
+2nd Floor Cookson Building
+
+Framlington Place
+
+Newcastle upon Tyne
+
+NE2 4HH, UK"""
 mobile = "+44 (0)191 208 7432"
 email = "paula.salgado@ncl.ac.uk"
 # contact form action

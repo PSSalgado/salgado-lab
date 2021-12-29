@@ -14,14 +14,14 @@ Our *C. difficile* Structural Microbiology group focuses on detailed structural 
 
 ## *C. difficile* S-layer
 Like many bacteria, *C. difficile* has an outside para-crystalline layer called S-layer that is presumed to act as a protective shield and has been implicated in virulence, host interaction and immune activation. 
-We focus on understanding S-layer organisation, primarily by determining the structure of the major S-layer protein constituent, SlpA. This work is part of a Wellcome Trust Collaborative Award with colleagues from Sheffield and Glasgow universities.
+We focus on understanding [S-layer](/research/s-layer) organisation, primarily by determining the structure of the major S-layer protein constituent, SlpA. This work is part of a Wellcome Trust Collaborative Award with colleagues from Sheffield and Glasgow universities.
 
-We are also studying other cell wall proteins identified in C. difficile, aiming to understand their macromolecular details with our structural studies that complement work developed by our collaborators.
+We are also studying other cell wall proteins identified in *C. difficile*, aiming to understand their macromolecular details with our structural studies that complement work developed by our collaborators.
 
 ## Sporulation engulfment machinery
-Work in the Salgado lab has identified two essential proteins involved in the early stages of sporulation (Crawshaw et al., 2014, Serrano et al., 2016). We have also contributed to elucidating details of the engulfment mechanism to start defining the complex machinery involved in this process, which we termed the engulfasome (Kelly and Salgado, 2019). 
+Work in the Salgado lab has identified two essential proteins involved in the early stages of sporulation ([Crawshaw *et al*., 2014](/publication/6), [Serrano *et al*., 2016](/publication/4)). We have also contributed to elucidating details of the engulfment mechanism ([Dembek *et al*., 2018](/publication/1)) to start defining the complex machinery involved in this process, which we termed the engulfasome ([Kelly and Salgado, 2019](/publication/2)). 
 
-Current work focuses on further elucidating the molecular details of the engulfasome machinery.  
+Current work focuses on further elucidating the molecular details of the [engulfasome machinery](/research/engulfasome).  
 
 ---
 

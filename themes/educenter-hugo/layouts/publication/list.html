@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<!-- publications -->
+<section class="section">
+  <div class="container">
+    <!-- publication list -->
+    <div class="row justify-content-center">
+      <!-- publication item -->
+      {{ range first 6 (sort .Data.Pages.Reverse "Params.order") }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "publication" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /publication list -->
+
+    <!-- Other publications -->
+    <div class="row justify-content-center other-pub-list">
+      {{ .Content }}
+    </div>
+
+  </div>
+</section>
+<!-- /publications -->
+
+
+
+{{ end }}

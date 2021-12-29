@@ -26,6 +26,6 @@ description : ""
 - Laurila, M.R.L.\*, **Salgado, P.S.\***, Stuart, D.I., Grimes, J.M., Bamford, D.H. (2005) Back-priming mode of Phi6 RNA-dependent RNA polymerase. J Gen Virol 86:521 – 526. 
 - **Salgado, P.S.**, Makeyev, E.V., Butcher, S.J., Bamford, D.H., Stuart, D.I., Grimes, J.M. (2004) The structural basis for RNA specificity and Ca2+ inhibition of an RNA-dependent RNA polymerase. Structure 12:307-16.
 
-## Book chapters (peer reviewed)
+### Book chapters
 
 - Makeyev, E.V.\*, **Salgado, P.S.\*** (2005) Structure, function and evolution of virus and cell-encoded RNA-dependent RNA polymerases. In Recent Advances in RNA virus replication (K. Hefferon, Ed.), 2006, ISBN 81-7895-214-9, Research Signpost/Transworld Research Network (invited contribution)

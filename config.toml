@@ -64,7 +64,7 @@ email = "paula.salgado@ncl.ac.uk"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "G-3Y6V4RN89" # your id
+google_analitycs_id = "UA-17053935-1"
 # top header
 top_header = false
 

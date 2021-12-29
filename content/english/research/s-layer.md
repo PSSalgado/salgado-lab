@@ -19,3 +19,7 @@ We have recently determined the structure and assembly of SlpA, the main S-layer
 ![](/images/research/Slayer_structure.jpg)
 
 We aim to continue to use a combination of structural, biochemical, biophysical and computational methods to further understand the role and dynamics of the S-layer.
+
+&nbsp;
+
+*Image by Lizah van der Aart*

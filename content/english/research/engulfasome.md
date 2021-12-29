@@ -18,3 +18,7 @@ Knowledge of spore formation at the molecular level and an understanding of its 
 The process of engulfment of the future spore by the mother cell membrane involves several proteins – the engulfasome – and remodelling of the peptidoglycan (PG). We have identified the PG degrading enzymes SpoIID and SpoIIP (DP) as well as the putative channel SpoIIQ:SpoIIIAH (Q:AH) as essential for engulfment.
 
 Current work focuses on further characterising these proteins and their interactions. We also aim to identify other proteins involved in the complex network required for engulfment and explore the therapeutic potential of the engulfasome.
+
+&nbsp;
+
+*Image by Marcin Dembek*

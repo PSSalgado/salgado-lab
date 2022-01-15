@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : ""
+description : "In the first week of January, I was fortunate to (virtually) attend my first CCP4SW"
 # post thumbnail
 image: "/images/blog/ccp4sw2022.jpg"
 # post author

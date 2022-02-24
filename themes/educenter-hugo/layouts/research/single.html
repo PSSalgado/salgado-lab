@@ -15,7 +15,7 @@
     <!-- research details -->
     <div class="row">
       <div class="col-12 mb-50 content">
-        {{ .Content }}
+        {{ .Content | safeHTML}}
       </div>
     </div>
   </div>

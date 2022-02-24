@@ -458,3 +458,10 @@ textarea.form-control {
   width: 85px;
   object-fit: cover;
 }
+
+.protein-viewer {
+  text-align: center;
+  canvas {
+    border: $primary-color 1px solid;
+  }
+}

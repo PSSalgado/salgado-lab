@@ -130,6 +130,17 @@ a h4 {
     min-height: 5rem;
   }
 
+  &-publication {
+    h4 {
+      min-height: 10rem;
+    }
+  }
+
+  &-blog {
+    object-fit: contain !important;
+    min-height: 350px !important;
+  }
+
   &-publication-cover {
     width: 100%;
     height: 350px;

@@ -1,6 +1,7 @@
 // Color Variables
-$primary-color: #22618b;
-$secondary-color: #1a1a37;
+$primary-color: #262262;
+$secondary-color: darken($primary-color, 20);
+
 $text-color: #5c5c77;
 $text-color-light: #8585a4;
 $text-color-dark: #1e1e4b;
@@ -10,6 +11,8 @@ $black: #000;
 $white: #fff;
 $light: #f8f9fe;
 $gray: #f8f8f8;
+$orange:  #FBB040;
+$yellow: #FEF061;
 
 // Font Variables
 $primary-font: 'Poppins', sans-serif;

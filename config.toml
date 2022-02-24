@@ -148,7 +148,7 @@ weight = 2
 
 
 [[Languages.en.menu.main]]
-name = "publications"
+name = "Publications"
 url = "/publication"
 weight = 3
 
@@ -158,7 +158,7 @@ url = "/member"
 weight = 4
   
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Blog"
 url = "/blog"
 weight = 5
   
@@ -166,30 +166,6 @@ weight = 5
 name = "Contact"
 url = "/contact"
 weight = 6
-
-# footer menu
-
-# [[Languages.en.menu.footer]]
-# name = "teacher"
-# url = "teacher"
-
-# [[Languages.en.menu.footer]]
-# name = "notice"
-# url = "notice"
-
-# [[Languages.en.menu.footer]]
-# name = "event"
-# url = "event"
-
-# [[Languages.en.menu.footer]]
-# name = "scholarship"
-# url = "scholarship"
-
-# [[Languages.en.menu.footer]]
-# name = "research"
-# url = "research"
-
-
 
 ################################### French language #####################################
 [Languages.fr]

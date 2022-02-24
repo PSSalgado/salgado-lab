@@ -35,10 +35,15 @@
   }
 }
 
-img.logo-xl {
-  max-width: 60%;
+img {
+  &.logo-xl {
+    max-width: 60%;
+  }
+  &.logo-small {
+    max-width: 60%;
+  }
+  
 }
-
 /* /banner feature */
 
 /* course */

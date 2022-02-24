@@ -2,33 +2,26 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-<!-- hero slider -->
-{{ if $data.homepage.slider.enable }}
 {{ with $data.homepage.slider }}
 <section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
     <div class="hero-slider">
       <!-- slider item -->
-      {{ range .slider_item }}
+
       <div class="hero-slider-item">
         <div class="row">
           <div class="col-md-8">
-            <h1 class="text-white" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3"
-              data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".1">{{ .title | markdownify }}</h1>
-            <p class="text-muted mb-4" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".4">{{ .content | markdownify }}</p>
-            {{ if .button.enable }}
-            <a href="{{ .button.link | absLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
-            {{ end }}
+            <img class="logo-xl" src="/images/logo/banner/SalgadoLabLogo_Light_XL.png"/>
           </div>
         </div>
       </div>
-      {{ end }}
+      
     </div>
   </div>
 </section>
+
 {{ end }}
-{{ end }}
-<!-- /hero slider -->
+
 
 <!-- banner-feature -->
 {{ if $data.homepage.banner_feature.enable }}

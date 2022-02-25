@@ -2,3 +2,5 @@
 resources/_gen/
 public/
 .vscode
+.DS_Store
+.hugo_build.lock

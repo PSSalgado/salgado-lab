@@ -11,7 +11,7 @@ image: "images/members/Victoria Burge.jpg"
 course: "PhD Student"
 # biography
 bio: ""
-order: 6
+order: 5
 # contact info
 contact:
   # contact item loop

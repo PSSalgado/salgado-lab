@@ -44,8 +44,6 @@ function loadPDB() {
 document.addEventListener('DOMContentLoaded', loadPDB);
 </script>
 
-
-
 - SLP<sub>H</sub> forms a trimeric prism arrangement
 - SLP<sub>L</sub> extends towards the environment
 - The interacting domains form an intricate paper-clip motif that links the two SLPs

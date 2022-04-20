@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "A first person view of Microbiology Society Annual Conference 2022 by Charlotte Roughton"
 # post thumbnail
-image: "images/blog/Microbio22post2.jpg"
+image: "/images/blog/Microbio22post2.jpg"
 # post author
 author: "Charlotte Roughton"
 # type

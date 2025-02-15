@@ -465,3 +465,14 @@ textarea.form-control {
     border: $primary-color 1px solid;
   }
 }
+
+.member-card {
+  margin-bottom: 3rem;
+  .card {
+    height: 100%;
+  }
+  img {
+    object-fit: cover;
+    height: 300px;
+  }
+}

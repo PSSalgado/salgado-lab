@@ -22,7 +22,7 @@
     <div class="row filtr-container">
       <!-- member -->
       {{ range sort .Data.Pages "Params.order" }}
-      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item">
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item mb-5">
         {{ .Render "member" }}
       </div>
       {{ end }}

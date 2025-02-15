@@ -3,7 +3,8 @@ baseURL = ""
 title = "Salgado lab"
 theme = "educenter-hugo"
 # post pagination
-paginate = "6"
+[pagination]
+  pagerSize = 6
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -130,8 +131,9 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
-url = "/"
+[Languages.en.params]
+  home = "Home"
+  url = "/"
 # copyright
 copyright = "Copyright &copy; 2021 Paula Salgado"
 
@@ -177,7 +179,8 @@ languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
-home = "Accueil"
+[Languages.fr.params]
+  home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2021 Institute for Cell and Molecular Biosciences"
 
@@ -258,3 +261,6 @@ url = "scholarship"
 [[Languages.fr.menu.footer]]
 name = "research"
 url = "research"
+
+[services.disqus]
+  shortname = "yourshortname"

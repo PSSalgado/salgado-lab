@@ -20,9 +20,9 @@ contact:
     link : "mailto:paula.salgado@ncl.ac.uk"
 
   # contact item loop
-  - name : "@pssalgado"
-    icon : "ti-twitter-alt"
-    link : "https://twitter.com/pssalgado"
+  - name : "@pssalgado.bsky.social"
+    icon : "ti-cloud"
+    link : "https://bsky.app/profile/pssalgado.bsky.social"
 
 # contact item loop
   - name : "Paula Salgado"

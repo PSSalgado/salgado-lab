@@ -11,7 +11,7 @@ image: "images/members/Marcin Dembek.jpeg"
 course: "Alumni"
 # biography
 bio: ""
-order: 8
+order: 10
 # contact info
 contact:
   - name : "Marcin Dembek"

@@ -11,7 +11,7 @@ image: "images/members/Abbie-Kelly.jpeg"
 course: "Alumni"
 # biography
 bio: ""
-order: 7
+order: 9
 # contact info
 contact:
   # contact item loop

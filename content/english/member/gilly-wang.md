@@ -8,21 +8,15 @@ description : ""
 # portrait
 image: "images/members/Gilly Wang.jpg"
 # course
-course: "PhD Student"
+course: "Alumni"
 # biography
 bio: ""
-order: 3
+order: 7
 # contact info
 contact:
-  # contact item loop
   - name : "z.wang43@newcastle.ac.uk"
     icon : "ti-email"
     link : "mailto:z.wang43@newcastle.ac.uk"
-
-  # contact item loop
-  - name : "@Gilly_ZiyiWang"
-    icon : "ti-twitter-alt"
-    link : "https://twitter.com/gilly_ziyiwang"
 
 # type
 type: "member"
@@ -30,6 +24,6 @@ type: "member"
 
 ### About Me
 
-Gilly is in her final year PhD studying Type IV pili in *C. difficile*, using microbiology techniques to understand how these structures affect pathogenecity.
+Gilly (Ziyi Wang) completed her PhD in the Salgado Lab in 2023. Her thesis, *Type IV pili proteins in Clostridioides difficile*, used microbiology and related approaches to investigate how Type IV pili contribute to *C. difficile* biology and pathogenicity.
 
 Outside the lab, she enjoys playing music, taking photos and cooking.

@@ -11,7 +11,7 @@ image: "images/members/Paola Lanzoni-Mangutchi.jpg"
 course: "Alumni"
 # biography
 bio: ""
-order: 6
+order: 8
 # contact info
 contact:
   # contact item loop

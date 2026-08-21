@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "/images/backgrounds/page-title.jpg"
 # about image
-image: "/images/about/about-page.jpg"
+image: "/images/about/about-page2026.jpg"
 # meta description
 description : "Our Structural Microbiology lab combines structural, biochemical and biophysical studies with molecular microbiology to understand key proteins involved in _C. difficile_ pathogenecity."
 ---

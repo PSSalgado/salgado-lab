@@ -8,23 +8,15 @@ description : ""
 # portrait
 image: "images/members/Charlotte Roughton.jpg"
 # course
-course: "PhD Student"
+course: "Alumni"
 # biography
 bio: ""
-order: 4
-# interest
-# interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
+order: 6
 # contact info
 contact:
-  # contact item loop
-  - name : "c.roughton2@newcastle.ac.uk"
-    icon : "ti-email"
-    link : "mailto:c.roughton2@newcastle.ac.uk"
-
-  # contact item loop
-  - name : "@cgroughton"
-    icon : "ti-twitter-alt"
-    link : "https://twitter.com/cgroughton"
+  - name : "Charlotte Roughton"
+    icon : "ti-linkedin"
+    link : "https://www.linkedin.com/in/charlotte-roughton"
 
 # type
 type: "member"
@@ -32,6 +24,6 @@ type: "member"
 
 ### About Me
 
-Charlotte is a second year PhD student whose research is focusing on the molecular mechanisms of engulfment.
+Charlotte completed her PhD in the Salgado Lab in 2024, funded by a Barbour Foundation Scholarship and co-supervised by Prof. Waldemar Vollmer. Her thesis, *Novel insights into the molecular mechanisms of Clostridioides difficile spore engulfment*, combined microbiology, biochemistry and molecular biology to characterise engulfasome peptidoglycan hydrolases.
 
-Outside of the lab, you can find her getting involved with science communication, science art, and chasing after her 7 pet rats.
+She is now a Commercial Scientist at Aelius Biotech. Outside the lab, she remains active in science communication and with the Microbiology Society.

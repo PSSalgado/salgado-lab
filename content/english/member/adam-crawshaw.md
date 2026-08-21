@@ -11,7 +11,7 @@ image: "images/members/Adam Crawshaw.png"
 course: "Alumni"
 # biography
 bio: ""
-order: 9
+order: 11
 # contact info
 contact:
   # contact item loop
@@ -26,7 +26,7 @@ contact:
     
   - name : "Adam Crawshaw"
     icon : "ti-linkedin"
-    link : "www.linkedin.com/in/dradamcrawshaw"
+    link : "https://www.linkedin.com/in/dradamcrawshaw"
 
 
 # type

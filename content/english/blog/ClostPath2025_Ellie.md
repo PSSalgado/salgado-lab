@@ -30,7 +30,7 @@ The next few days passed in a blur with many interesting talks and a jam-packed 
 
 *Illustration by Pellichi*
 
-![Anna presenting on S-layers at ClostPath](/images/blog/clostpath2025_3.jpg)
+![Anna presenting on S-layers at ClostPath](/images/blog/Anna%20Barwinska-Sendra%20talk.jpg)
 
 We were treated to two invigorating poster sessions where I was able to present the preliminary findings of my PhD project — investigating the structure and function of the S-layer in *C. difficile* and its role in disease severity. These sessions allowed for lots of stimulating conversation and led to many future collaboration projects for the lab.
 
@@ -40,6 +40,8 @@ Wednesday afternoon brought with it the “social activities” timeslot where I
 
 The closing of the conference brought with it the news of the location of the next ClostPath 2027 and we were all very excited to hear it will be in… Rio de Janeiro! We then all headed to our gala dinner which this year was held on a boat on the Seine. We cruised down the Seine at sunset, past the Eiffel Tower as it sparkled and sung our hearts out when the inevitable karaoke session started.
 
-![ClostPath gala dinner on the Seine](/images/blog/clostpath2025_5.jpg)
+![ClostPath gala dinner on the Seine](/images/blog/Eiffel%20Tower.jpg)
+
+![ClostPath team at the conference](/images/blog/Clostpath%20team.jpg)
 
 My time at ClostPath 14 showed me just how friendly and welcoming the Clostridia community are, in particular to early-career researchers. This was especially evident in the poster sessions where I felt very supported to talk about my work with everyone from other PhD students to the PIs of other labs. It was also felt throughout the conference with the sessions being chaired by one ECR and one experienced researcher and many of the talks being given by students and postdocs as well as PIs. Bring on ClostPath 2027!

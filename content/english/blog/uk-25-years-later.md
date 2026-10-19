@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Twenty-five years after arriving in Oxford for a PhD, Paula Salgado looks back on a research career, and a home, built in the UK."
 # post thumbnail
-image: "/images/blog/salgadolabmembers.jpg"
+image: "/images/blog/tynemouth.jpg"
 # post author
 author: "Paula Salgado"
 # type

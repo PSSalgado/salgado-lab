@@ -9,6 +9,7 @@ description : ""
 
 ## Other publications
 
+- Latimer-Smith, M., **Salgado, P.S.**, Forsyth, I., Makeyev, E., Poranen, M.M., Stuart, D.I., Grimes, J.M., El Omari, K. (2024) Structure of the RNA-dependent RNA polymerase P2 from the cystovirus φ8. Scientific Reports 14:23540.
 - Julius C., **Salgado P.S.**, Yuzenkova Y. (2020) Metabolic cofactors NADH and FAD act as non-canonical initiating substrates for a primase and affect replication primer processing in vitro. Nucleic Acids Research. 48(13):7298-7306.
 - Herrero-de-Dios, C., Day, A.M., Tillmann, A.T., Stravroula, L.K., Stead, D., **Salgado, P.S.**, Quinn, J., Brown, A.J.P., (2018) Redox regulation, rather than stress-induced phosphorylation, of a Hog1 mitogen-activated protein kinase modulates its nitrosative-stress-specific outputs, mBio, 9 2e02229-1.
 - Warren, A.J., Crawshaw, A.D., Trincao, J., Aller, P., Alcock, S., Nistea, I., **Salgado, P.S.**, Evans, G. (2015) *In vacuo* X-ray data collection from graphene-wrapped protein crystals. Acta Cryst D71: 2079-88

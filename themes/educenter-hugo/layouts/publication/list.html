@@ -6,7 +6,7 @@
     <!-- publication list -->
     <div class="row justify-content-center">
       <!-- publication item -->
-      {{ range first 6 (sort .Data.Pages.Reverse "Params.order") }}
+      {{ range first 8 (sort .Data.Pages.Reverse "Params.order") }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "publication" }}
       </div>

@@ -7,13 +7,11 @@
       <div class="col-12">
         <!-- member category list -->
         <ul class="list-inline text-center filter-controls mb-5">
-          <li class="list-inline-item m-3 text-uppercase active" data-filter="all">{{ i18n "all" }}</li>
-          {{ $categories := slice }}
-          {{ range .Data.Pages }}
-          {{ $categories = $categories | append .Params.Course }}
-          {{ end }}
-          {{ range ( $categories | uniq ) }}
-          <li class="list-inline-item m-3 text-uppercase" data-filter="{{ . | urlize }}">{{ . | humanize }}</li>
+          <li class="list-inline-item m-3 active" data-filter="all">All</li>
+          {{ $courses := slice "Principal Investigator" "PhD Student" "Alumni" }}
+          {{ $labels := slice "Principal Investigator" "PhD student" "Alumni" }}
+          {{ range $i, $course := $courses }}
+          <li class="list-inline-item m-3" data-filter="{{ $course | urlize }}">{{ index $labels $i }}</li>
           {{ end }}
         </ul>
       </div>
@@ -22,7 +20,7 @@
     <div class="row filtr-container">
       <!-- member -->
       {{ range sort .Data.Pages "Params.order" }}
-      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item mb-5">
+      <div data-category="{{ .Params.Course | urlize }}" class="col-lg-4 col-sm-6 filtr-item member-card mb-5">
         {{ .Render "member" }}
       </div>
       {{ end }}

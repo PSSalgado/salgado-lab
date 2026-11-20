@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Ellie Rockliff's account of ClostPath 14 at the Institut Pasteur, Paris, September 2025"
 # post thumbnail
-image: "/images/blog/clostpath2025_1.jpg"
+image: "/images/blog/logoClostpath14.png"
 # post author
 author: "Ellie Rockliff"
 # type

@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Anna Barwinska-Sendra on our Nature Communications paper showing how modular S-layer design lets bacteria reshape their cell-surface exoskeletons."
 # post thumbnail
-image: "/images/blog/natcomms2026-fig1.jpg"
-image_alt: "Circular Tree of Life annotated with experimentally verified bacterial and archaeal S-layers and their surface and anchor domain distributions."
+image: "/images/blog/ABSillustration.jpg"
+image_alt: "Illustration showing Anna Barwinska-Sendra  and representations of bacterial S-layers diversity"
 # post author
 author: "Anna Barwinska-Sendra"
 # type
@@ -36,20 +36,27 @@ We show that, rather than employing rigid and complex architecture which can onl
 
 <figure style="margin:0.75rem 0 1.25rem;">
 <img src="/images/blog/natcomms2026-fig2.jpg" alt="Phylogeny, electron micrographs and structural models illustrating S-layer modularity across Peptostreptococcales." title="S-layer modularity in Peptostreptococcales" style="display:block;width:100%;height:auto;">
-<figcaption style="margin-top:0.45rem;font-size:15px;line-height:1.9;color:#5c5c77;font-style:italic;font-weight:400;">Fig. 2 – S-layer modularity in a single Gram-positive group, Peptostreptococcales</figcaption>
+<figcaption style="margin-top:0.45rem;font-size:15px;line-height:1.9;color:#5c5c77;font-style:italic;font-weight:400;">Fig. 2 – S-layer modularity in a single Gram-positive group, *Peptostreptococcales*</figcaption>
 </figure>
 
 By replacing or modifying just a single gene encoding the S-layer building block, bacteria can reshape their entire cell surface. Swapping anchoring domains enables attaching S-layer proteins to the cell using different chemistry. Adding, removing, or replacing structural elements of various length, from short structural motifs to entire domains, enables reconfiguration of the lattice properties including thickness, pore sizes, and modifying surface epitopes most prone to binding by bacteriophages and antibodies.
 
 <figure style="margin:0.75rem 0 1.25rem;">
 <img src="/images/blog/natcomms2026-fig3.jpg" alt="Distinct S-layer lattice topologies and CRISPRi antimicrobial susceptibility assays comparing pathogens and environmental relatives." title="Different topologies and antimicrobial resistance of S-layers in Peptostreptococcales" style="display:block;width:100%;height:auto;">
-<figcaption style="margin-top:0.45rem;font-size:15px;line-height:1.9;color:#5c5c77;font-style:italic;font-weight:400;">Fig. 3 – Different topologies and antimicrobial resistance of S-layers in Peptostreptococcales</figcaption>
+<figcaption style="margin-top:0.45rem;font-size:15px;line-height:1.9;color:#5c5c77;font-style:italic;font-weight:400;">Fig. 3 – Different topologies and antimicrobial resistance of S-layers in *Peptostreptococcales*</figcaption>
 </figure>
 
 Strikingly, among relatives carrying homologous S-layers, only human gut pathogens (*C. difficile* and *Peptostreptococcus anaerobius*) are resistant to human antimicrobials (lysozyme and LL-37). What was perhaps most surprising, the same type of S-layer does not contribute to the protection in environmental bacteria which are not known to infect humans.
 
 Together our findings establish the bacterial S-layer as a paradigm of biomolecular modularity and plasticity, showing how single-protein variation can empower pathogens to evade host immunity.
 
-A huge thank you to my incredible co-authors, Dr Kacper Sendra and Prof Paula Salgado, to our funders (Medical Research Council and Faculty of Medical Sciences, Newcastle University), and amazing facility support at Newcastle and York Universities and Diamond Light Source for making this possible. I am excited to see how this framework will inform future development of therapeutics targeting these dynamic bacterial interfaces!
+A huge thank you to my incredible co-authors, Dr Kacper Sendra and Prof Paula Salgado, to our funders (Medical Research Council and Faculty of Medical Sciences, Newcastle University), and amazing facility support at Newcastle and York Universities and Diamond Light Source for making this possible. 
+
+I am excited to see how this framework will inform future development of therapeutics targeting these dynamic bacterial interfaces!
 
 Read the full paper here: [https://www.nature.com/articles/s41467-026-77977-0](https://www.nature.com/articles/s41467-026-77977-0)
+
+<figure style="margin:0.75rem 0 1.25rem;">
+<img src="/images/blog/submission2publication.jpg" alt="Two photos side by side, left shows Kacper Sendra, Anna Barwinska-Sendra and Paula Salgado (left to right) smiling in a pub garden table, right shows Anna Barwinska-Sendar and Paula Salgado in an office, tosting with a glass of champagne" title="From submission to publication" style="display:block;width:100%;height:auto;">
+<figcaption style="margin-top:0.45rem;font-size:15px;line-height:1.9;color:#5c5c77;font-style:italic;font-weight:400;">Fig. 4 – Raising our glasses on submission and publication day</figcaption>
+</figure>
